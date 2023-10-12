@@ -1,5 +1,24 @@
 # @graphql-codegen/client-preset
 
+## 4.2.0
+
+### Minor Changes
+
+- [#9683](https://github.com/dotansimha/graphql-code-generator/pull/9683) [`58d28a710`](https://github.com/dotansimha/graphql-code-generator/commit/58d28a71026fe71e71b11d5bfc366f1863b12b05) Thanks [@charpeni](https://github.com/charpeni)! - The client preset now allows the use of the `futureProofEnums` config option
+
+### Patch Changes
+
+- [#9640](https://github.com/dotansimha/graphql-code-generator/pull/9640) [`40a29e91e`](https://github.com/dotansimha/graphql-code-generator/commit/40a29e91ea25ed5ad6acb15ccca1767dafbdd7c5) Thanks [@renovate](https://github.com/apps/renovate)! - dependencies updates:
+  - Updated dependency [`tslib@~2.6.0` ↗︎](https://www.npmjs.com/package/tslib/v/2.6.0) (from `~2.5.0`, in `dependencies`)
+- Updated dependencies [[`40a29e91e`](https://github.com/dotansimha/graphql-code-generator/commit/40a29e91ea25ed5ad6acb15ccca1767dafbdd7c5), [`40a29e91e`](https://github.com/dotansimha/graphql-code-generator/commit/40a29e91ea25ed5ad6acb15ccca1767dafbdd7c5), [`40a29e91e`](https://github.com/dotansimha/graphql-code-generator/commit/40a29e91ea25ed5ad6acb15ccca1767dafbdd7c5), [`40a29e91e`](https://github.com/dotansimha/graphql-code-generator/commit/40a29e91ea25ed5ad6acb15ccca1767dafbdd7c5), [`40a29e91e`](https://github.com/dotansimha/graphql-code-generator/commit/40a29e91ea25ed5ad6acb15ccca1767dafbdd7c5), [`40a29e91e`](https://github.com/dotansimha/graphql-code-generator/commit/40a29e91ea25ed5ad6acb15ccca1767dafbdd7c5), [`40a29e91e`](https://github.com/dotansimha/graphql-code-generator/commit/40a29e91ea25ed5ad6acb15ccca1767dafbdd7c5)]:
+  - @graphql-codegen/add@5.0.1
+  - @graphql-codegen/gql-tag-operations@4.0.2
+  - @graphql-codegen/plugin-helpers@5.0.2
+  - @graphql-codegen/typed-document-node@5.0.2
+  - @graphql-codegen/typescript@4.0.2
+  - @graphql-codegen/typescript-operations@4.0.2
+  - @graphql-codegen/visitor-plugin-common@4.0.2
+
 ## 4.1.0
 
 ### Minor Changes

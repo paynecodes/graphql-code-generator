@@ -1,5 +1,19 @@
 # @graphql-codegen/cli
 
+## 5.0.1
+
+### Patch Changes
+
+- [#9556](https://github.com/dotansimha/graphql-code-generator/pull/9556) [`23d8796a0`](https://github.com/dotansimha/graphql-code-generator/commit/23d8796a048c9d72b92429942d488c7483b500db) Thanks [@frandiox](https://github.com/frandiox)! - ignore events in `.git` directory
+
+- [#9580](https://github.com/dotansimha/graphql-code-generator/pull/9580) [`50253b142`](https://github.com/dotansimha/graphql-code-generator/commit/50253b1428e2c748a7a2786eb910e39732b0984d) Thanks [@spawnia](https://github.com/spawnia)! - Surface error occurring during import of @parcel/watcher
+
+- [#9698](https://github.com/dotansimha/graphql-code-generator/pull/9698) [`5d6b6d90f`](https://github.com/dotansimha/graphql-code-generator/commit/5d6b6d90f225c66d4f42617be22e75dce803165b) Thanks [@OriginalEXE](https://github.com/OriginalEXE)! - fix watcher unable to find highest common directory on Windows
+
+- Updated dependencies [[`40a29e91e`](https://github.com/dotansimha/graphql-code-generator/commit/40a29e91ea25ed5ad6acb15ccca1767dafbdd7c5), [`40a29e91e`](https://github.com/dotansimha/graphql-code-generator/commit/40a29e91ea25ed5ad6acb15ccca1767dafbdd7c5)]:
+  - @graphql-codegen/core@4.0.1
+  - @graphql-codegen/plugin-helpers@5.0.2
+
 ## 5.0.0
 
 ### Major Changes
